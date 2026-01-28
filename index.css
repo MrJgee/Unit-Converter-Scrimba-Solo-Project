@@ -1,0 +1,119 @@
+
+body {
+    margin: 0px;
+    height: 100vh;
+    padding: 5vh 0px;
+    font-family: "Inter", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+    background-color: black;
+    box-sizing: border-box;
+}
+
+
+.container {
+    box-sizing: border-box;
+    height: 100%;
+    width: 600px;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    /* border: 2px solid black; */
+    border-radius: 5px;
+    border: white solid 3px;
+}
+
+.main {
+    width: 100%;
+    box-sizing: border-box;
+    flex: .25;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 20px 0px;
+    /* border: 2px solid black; */
+    background-color: #6943FF;
+    border-bottom: #6943FF 5px solid;
+}
+
+h1 {
+    font-size: 28px;
+    margin-top: 0px;
+    margin-bottom: 25px;
+    color: white;
+}
+
+input {
+   -webkit-appearance: none;
+   flex: .4;
+   font-size: 72px;
+   width: 2em;
+   text-align: center;
+   color: white;
+   font-weight: bold;
+   background-color: transparent;
+   border-style: none;
+   border-radius: 5px;
+   border: 2px solid #B295FF;
+   }
+
+
+button {
+    box-sizing: border-box;
+    margin-top: 20px;
+    flex: 0.2;
+    padding: 10px 20px;
+    font-size: 18px;
+    background-color: white;
+    border-style: none;
+    border-radius: 5px;
+}
+
+.conversion {
+    box-sizing: border-box;
+    width: 100%;
+    flex: 0.75;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    background-color: #F4F4F4;
+}
+
+.con-child {
+    height: 20%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    /* justify-content: center; */
+    background-color: white;
+    width: 80%;
+}
+
+h2 {
+    font-size: 20px;
+    color: #5a537b;
+    margin-top: 35px;
+    margin-bottom: 10px;
+}
+
+p {
+    margin: 0px;
+}
+
+
+
+
+
+
+
+
+
+/* Chrome, Safari, Edge, Opera */
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
