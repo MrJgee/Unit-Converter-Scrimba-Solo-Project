@@ -10,10 +10,10 @@ Here is a preview image of the site:
 ## My Process
 
 ### Languages and tools
-*HTML
-*CSS
-*Javascript
-*VScode
+* HTML
+* CSS
+* Javascript
+* VScode
 
 ### Built with
 * Desktop first workflow
@@ -22,5 +22,5 @@ Here is a preview image of the site:
 * Vanilla Javascript 
 
 ### Resources
-*[Free online course](https://www.youtube.com/watch?v=LzMnsfqjzkA)
-*[Figma file](https://www.figma.com/design/K5GglbT6QqmLM3yvBXFdop/Unit-Conversion--Copy-?node-id=0-1&p=f&t=XkCm7HGvJTxNPpnq-0)
+* [Free online course](https://www.youtube.com/watch?v=LzMnsfqjzkA)
+* [Figma file](https://www.figma.com/design/K5GglbT6QqmLM3yvBXFdop/Unit-Conversion--Copy-?node-id=0-1&p=f&t=XkCm7HGvJTxNPpnq-0)
